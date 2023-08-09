@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET MVC Entity Framework Assignment Part 4", "ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4.csproj", "{4E1F94D6-9554-4C65-B541-57AB2CC65165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET MVC Entity Framework Assignment Part 4", "ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4.csproj", "{4E1F94D6-9554-4C65-B541-57AB2CC65165}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3D2F0FD-FF21-41D7-AB80-4C3CE2A36311}"
+	ProjectSection(SolutionItems) = preProject
+		Startup.cs = Startup.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,45 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "9NuAmuTzidRWEKglIr0b+0Yc4786wuIQTBbbToKXpqx6omGVQuBL24C3LlqqqjLYGh8BvZKM30NHnwJ5amOh3w==",
+  "dgSpecHash": "v87APNejwzg2xws42MOqSPahkTJNvkaFv8yfC0AyeN34g4XhcecH5ALKpb0Uli3DFKdTZWFKZMwHu3IOXHV/gw==",
   "success": false,
   "projectFilePath": "C:\\Users\\Fawzy\\Desktop\\New folder\\ASP.NET MVC Entity Framework Assignment Part 4\\ASP.NET MVC Entity Framework Assignment Part 4\\ASP.NET MVC Entity Framework Assignment Part 4.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
-      "code": "NU1101",
+      "code": "NU1301",
       "level": "Error",
-      "message": "Unable to find package Microsoft.WindowsDesktop.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
-      "targetGraphs": [
-        "net6.0"
-      ]
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Ref' from remote source 'https://nuget.org/FindPackagesById()?id='Microsoft.NETCore.App.Ref'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
     },
     {
-      "code": "NU1101",
+      "code": "NU1301",
       "level": "Error",
-      "message": "Unable to find package Microsoft.NETCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.NETCore.App.Ref",
-      "targetGraphs": [
-        "net6.0"
-      ]
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Host.win-x64' from remote source 'https://nuget.org/FindPackagesById()?id='Microsoft.NETCore.App.Host.win-x64'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
     },
     {
-      "code": "NU1101",
+      "code": "NU1301",
       "level": "Error",
-      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.AspNetCore.App.Ref",
-      "targetGraphs": [
-        "net6.0"
-      ]
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.App.Ref' from remote source 'https://nuget.org/FindPackagesById()?id='Microsoft.AspNetCore.App.Ref'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
     },
     {
-      "code": "NU1101",
+      "code": "NU1301",
       "level": "Error",
-      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
-      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
-      "targetGraphs": [
-        "net6.0"
-      ]
+      "message": "Failed to retrieve information about 'Microsoft.WindowsDesktop.App.Ref' from remote source 'https://nuget.org/FindPackagesById()?id='Microsoft.WindowsDesktop.App.Ref'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
     }
   ]
 }

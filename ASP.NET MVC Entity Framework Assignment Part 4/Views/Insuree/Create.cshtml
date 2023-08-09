@@ -1,0 +1,13 @@
+﻿@model YourProjectNamespace.Models.Insuree
+
+<h2>Create Insuree</h2>
+
+@using (Html.BeginForm("CalculateQuote", "Insuree", FormMethod.Post))
+{
+    @Html.LabelFor(model => model.FirstName)
+    @Html.TextBoxFor(model => model.FirstName)
+
+    <!-- Add other input fields here -->
+
+    <button type="submit">Get Quote</button>
+}
